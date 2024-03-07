@@ -36,9 +36,3 @@ npm install
 
 Start the development server:
 npm start
-
-Usage
-Sign up for a free account or log in with your existing credentials.
-Connect your preferred cryptocurrency exchange account.
-Start trading by placing orders and managing your open orders.
-Set up customizable alerts for price movements.
